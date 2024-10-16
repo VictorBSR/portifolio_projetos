@@ -101,7 +101,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #5d5d5d;
+		color: #332b2b;
 		font-size: 14pt;
 		line-height: 1.75em;
 	}
@@ -112,7 +112,7 @@ input, select, textarea {
 	}
 	
 	b {
-		color: #d52349;
+		color: #f5a836;
 		font-weight: 400;
 	}
 

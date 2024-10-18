@@ -1,3 +1,5 @@
+(https://victorbsr.github.io/portfolio_projetos/)
+
 My personal portfolio page, holding various data science and AI-related projects.
 
 ------------------------------------------------------------------------------------
